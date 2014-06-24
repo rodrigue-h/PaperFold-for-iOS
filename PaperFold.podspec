@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.honcheng.com/2012/07/PaperFold-for-iOS"
   s.license      = 'MIT'
   s.author       = { "Muh Hon Cheng" => "honcheng@gmail.com" }
-  s.source       = { :git => "https://github.com/rodrigue-h/PaperFold-for-iOS.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/rodrigue-h/PaperFold-for-iOS.git" }
   s.platform     = :ios, '5.0'
   source_files   = 'PaperFold/PaperFold/PaperFold'
   s.source_files = source_files
